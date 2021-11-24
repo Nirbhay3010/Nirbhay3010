@@ -5,16 +5,19 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 
-<p align="center">I'm a full-stack developer.</p>
+<p align="center">I'm a full-stack developer.<br>
+I build effective and scalable websites.
 
+ </p>
 <br>
-< ! --
+< !--
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
- -- >
+
 <p align = "center">
- I build effective and scalable websites.
+ 
  </p>
+  -->
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
