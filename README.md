@@ -8,8 +8,10 @@
 <p align="center">I'm a full-stack developer.</p>
 
 <br>
+< ! --
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
+ -- >
 <p align = "center">
  I build effective and scalable websites.
  </p>
