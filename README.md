@@ -33,13 +33,10 @@ I build effective and scalable websites.
 
 <br>
 
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Nirbhay3010&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
- <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay3010&">
-</p>
-<p align="center"> 
+<p align = "center">
+ <img src = "https://github-readme-stats.vercel.app/api?username=Nirbhay3010&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+ <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug-gurnani&theme=synthwave">
  <img height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay3010&theme=synthwave">
-
 </p>
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" /> My Tools</h2></summary>
