@@ -35,7 +35,7 @@ I build effective and scalable websites.
 
 <p align = "center">
  <img src = "https://github-readme-stats.vercel.app/api?username=Nirbhay3010&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
- <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay3010&theme=synthwave">
+ <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay3010&theme=dark">
  <img height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay3010&theme=synthwave">
  <img src="https://activity-graph.herokuapp.com/graph?username=Nirbhay3010&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 </p>
