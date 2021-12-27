@@ -2,7 +2,7 @@
 <h1><p align="center">Hello, I'm Nirbhay Agrawal!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
 <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+ src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="40%"/></p>
 
 
 <p align="center">I'm a full-stack developer.<br>
@@ -34,10 +34,10 @@ I build effective and scalable websites.
 <br>
 
 <p align = "center">
- <img src = "https://github-readme-stats.vercel.app/api?username=Nirbhay3010&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+ <img src = "https://github-readme-stats.vercel.app/api?username=Nirbhay3010&show_icons=true&count_private=true&theme=dark&hide=issues&line_height=32">
  <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay3010&theme=dark">
- <img height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay3010&theme=synthwave">
- <img src="https://activity-graph.herokuapp.com/graph?username=Nirbhay3010&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+ <img height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay3010&theme=dark">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Nirbhay3010&bg_color=121212&color=FBED17&line=DA5B0B&point=E1E8EB">
 </p>
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" /> My Tools</h2></summary>
