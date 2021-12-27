@@ -44,7 +44,7 @@ I build effective and scalable websites.
 <br>
 ## 🏆 Github Status
 
-<p align="left">
+<p align="center">
 <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay3010&theme=synthwave">
 <img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay3010&theme=synthwave">
 </p>
