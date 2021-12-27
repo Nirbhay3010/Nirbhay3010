@@ -33,8 +33,10 @@ I build effective and scalable websites.
 
 <br>
 
-<div style="overflow: hidden; display: flex; justify-content:space-around;">
+<div style="display:inline-block">
  <img align =src = "https://github-readme-stats.vercel.app/api?username=Nirbhay3010&show_icons=true&count_private=true&theme=dark&hide=issues&line_height=32">
+</div>
+<div style="display:inline-block">
  <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay3010&theme=dark">
 </div>
 
