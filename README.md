@@ -34,8 +34,8 @@ I build effective and scalable websites.
 <br>
 
 <p align="left">
- <img src = "https://github-readme-stats.vercel.app/api?username=Nirbhay3010&show_icons=true&count_private=true&theme=dark&hide=issues&line_height=32">
- <img aliogn="right" height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay3010&theme=dark">
+ <img height="300px" width="400px" src = "https://github-readme-stats.vercel.app/api?username=Nirbhay3010&show_icons=true&count_private=true&theme=dark&hide=issues&line_height=32">
+ <img align="right" height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay3010&theme=dark">
 </p>
 
 <p align="center">
