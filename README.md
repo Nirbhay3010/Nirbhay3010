@@ -24,10 +24,9 @@ I build effective and scalable websites.
 
 <p align = "center">
  
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nirbhay-agrawal-43a1551a4/)
 
-</p>
+</p> 
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
                 width="28" /> My Github Stats</h2> </summary>
@@ -37,7 +36,7 @@ I build effective and scalable websites.
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Nirbhay3010&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
 </p>
-<p>
+<p align="center"> 
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay3010&">
 </p>
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
@@ -47,6 +46,7 @@ I build effective and scalable websites.
 
 <p align="center">
 <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay3010&theme=synthwave">
+ 
 <img height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay3010&theme=synthwave">
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=Nirbhay3010&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
