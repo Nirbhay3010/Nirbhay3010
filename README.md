@@ -47,8 +47,6 @@ I build effective and scalable websites.
 
 <div align="center">
 
-### Show some ❤️ by starring ⭐ some of the repositories!
-Nirbhay3010
 <br>
 
 <div align="center">  
