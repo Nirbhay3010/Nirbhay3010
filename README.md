@@ -39,8 +39,8 @@ I build effective and scalable websites.
 </p>
 
 <p align="center">
- <img height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay3010&theme=dark">
- <img src="https://activity-graph.herokuapp.com/graph?username=Nirbhay3010&bg_color=121212&color=FBED17&line=DA5B0B&point=E1E8EB">
+ <img height="300px" width="500px" src="https://github-readme-streak-stats.vercel.app/?user=Nirbhay3010&theme=dark">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirbhay3010&bg_color=121212&color=FBED17&line=DA5B0B&point=E1E8EB&theme=dark">
 </p>
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" /> My Tools</h2></summary>
