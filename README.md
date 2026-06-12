@@ -90,11 +90,6 @@
 
 <hr>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Nirbhay3010&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nirbhay3010 github stats"></p>
-<p><img src="https://streak-stats.demolab.com/?user=Nirbhay3010&theme=radical" alt="Nirbhay3010 github streak"></p>
-
-<hr>
-
 <p>Last edited on: 12/06/2026</p>
 
 </div>
