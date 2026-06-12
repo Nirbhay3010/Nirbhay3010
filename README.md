@@ -3,7 +3,7 @@
 <h1>Hello, I'm Nirbhay Agrawal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <h2 id="about">About</h2>
-<p>I am a full-stack developer with a backend focus — Senior Member of Technical Staff at Perfios. I architect distributed systems on AWS that serve <b>180M+ requests a month</b> across 150+ clients, and build AI automation pipelines with LLMs and RAG. Previously I led development of crypto-analytics and trading platforms handling billions of data points in real time.</p>
+<p>I'm a full-stack developer who spends most of my time on the backend. I build distributed systems on AWS that handle <b>180M+ requests a month</b>, and lately a lot of AI pipelines around LLMs and RAG. Before that I led a real-time crypto analytics platform juggling billions of data points over websockets. My favorite kind of work is making slow things fast: one query went from 94 seconds down to 2.4.</p>
 
 <hr>
 
